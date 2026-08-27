@@ -15,4 +15,5 @@ Gestão em Campo (Modo ADM): Permite cadastrar e editar salas/prédios diretamen
 
 © 2026 Rafajames – Todos os direitos reservados. Uso exclusivo e restrito a colaboradores autorizados do Tribunal de Justiça do Estado de Roraima.
 
-GitHub: github.com/Rafajames
+[GitHub: github.com/Rafajames
+](https://rafajames.github.io/MapTec-TJRR/)
